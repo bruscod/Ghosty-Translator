@@ -1,0 +1,2 @@
+# Ghosty-Translator
+Pet translator
